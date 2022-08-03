@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background: linear-gradient(to bottom left, #ff99ff 32%, #9966ff 100%);
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#intro{
+     background: linear-gradient(to bottom left, #99ccff 32%, #ff99cc 77%);
+}
+
+#origami1{
+    background: linear-gradient(to bottom left, #99ccff 32%, #ff99cc 77%);;
+}
+
+#contact_1{
+    background-color: cornflowerblue;
+}
+#contact_1 h3
+{
+    display: inline;
+}
+#contact_1 a
+{
+    color: white;
+    text-shadow: none;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
